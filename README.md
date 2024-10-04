@@ -1,11 +1,11 @@
 # 🥗 Macro Tracker: Optimize Your Nutrition, Optimize Your Life
 #### Welcome to Macro Tracker, a web application designed to help you achieve balance in your diet and optimize your macronutrient intake. Built with cutting-edge web technologies, this tool is your personal guide to building a strong, healthy body by tracking the essential nutrients: proteins, fats, sugars, and carbohydrates.
 
-By combining a developer's discipline with the latest in nutrition science, Macro Tracker empowers you to take control of your diet and optimize your performance—whether you're chasing fitness goals, stabilizing energy levels, or supporting cognitive function.
+#### By combining a developer's discipline with the latest in nutrition science, Macro Tracker empowers you to take control of your diet and optimize your performance—whether you're chasing fitness goals, stabilizing energy levels, or supporting cognitive function.
 
 <hr />
 
-## 🚀 Features
+### 🚀 Features
 - Personalized Tracking: Log your daily macronutrient intake with intuitive and sleek UI/UX.
 - Insightful Analytics: Get an overview of your consumption habits and trends over time.
 - Progressive Goal Setting: Tailor your macronutrient targets to align with your fitness and health objectives.
@@ -13,7 +13,7 @@ By combining a developer's discipline with the latest in nutrition science, Macr
 
 <hr />
 
-## 💡 Why Focus on Macronutrients?
+### 💡 Why Focus on Macronutrients?
 In the words of Dr. Andrew Huberman, optimizing your macronutrient intake isn't just about body composition—it's about harnessing the biology of performance. Proper nutrient intake helps regulate metabolism, improve energy levels, and support cognitive function. It's the bridge between feeling sluggish and feeling unstoppable.
 
 The Macro Tracker app aligns with this scientific approach, helping you monitor the variables that matter:
@@ -25,7 +25,7 @@ Sugars to maintain energy balance, without overloading the system.
 
 <hr />
 
-## 🛠️ Technologies Used
+### 🛠️ Technologies Used
 Macro Tracker is built using modern web technologies to deliver a performant, scalable, and responsive experience:
 
 - React for fast, dynamic user interfaces.
