@@ -15,6 +15,17 @@ export const signUpAction = async (formData: FormData) => {
     return { error: "Email and password are required" };
   }
 
+  // Check if email already exists in the database
+  const { data: existingUser } = await supabase
+    .from("Macro_Tracker")
+    .select("email")
+    .eq("email", email)
+    .single();
+
+  if (existingUser) {
+    return encodedRedirect("error", "/sign-up", "Email is already in use.");
+  }
+
   const { error } = await supabase.auth.signUp({
     email,
     password,
